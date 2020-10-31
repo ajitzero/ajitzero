@@ -2,8 +2,9 @@
 
 <img
 	align="right"
+	alt="GitHub Stats for @AjitZero"
 	src="https://github-readme-stats.vercel.app/api?username=AjitZero&theme=shades-of-purple&show_icons=true&count_private=true&hide_title=true"
-	alt="GitHub Stats for @AjitZero"/>
+	title="My GitHub Stats. Do the grades matter though?" />
 
 I'm a Fullstack (Web) Software Engineer with a zeal for building intuitive, accessible products with human-centric design.
 
