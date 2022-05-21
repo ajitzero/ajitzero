@@ -13,7 +13,7 @@ Find my thoughts, tips and insights on software engineering on [my blog](https:/
 
 > [Twitter](https://twitter.com/ajitzero "Twitter: For immediate contact and replies")
 · [LinkedIn](https://www.linkedin.com/in/ajitzero "LinkedIn: For my professional history")
-· [Email](mailto:ajitzero@gmail.com?subject=Hey%20I%20saw%20your%20GitHub%20Profile "Email: slow replies here")
-· [Newletter](https://2020.ajitpanigrahi.com/newsletter "Newsletter: For updates from me!")
+· [Email](mailto:hello@ajitpanigrahi.com?subject=Hey%20I%20saw%20your%20GitHub%20Profile "Email: slow replies here")
+· [Newletter](https://ajitpanigrahi.com/newsletter "Newsletter: For updates from me!")
 
 ![](https://komarev.com/ghpvc/?username=AjitZero&color=brightgreen)
