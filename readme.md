@@ -17,3 +17,15 @@ Find my thoughts, tips and insights on software engineering on [my blog](https:/
 · [Newletter](https://ajitpanigrahi.com/newsletter "Newsletter: For updates from me!")
 
 ![](https://komarev.com/ghpvc/?username=AjitZero&color=brightgreen)
+
+---
+
+- 🔭 I work for [Fortinet](https://fortinet.com) as a fullstack developer, formally an "Embedded Software Engineer 2"
+- 🔭 I’m currently working on a simple *bookmarks manager* for myself.
+- 🌱 I’m currently learning *Django*.
+- 💬 Ask me about anything Web, UX, DX, accessibility, design systems... or let's just hang out!
+- 📫 Fastest way to reach me: Twitter (links above👆).
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I have read more fanfiction, light novels and manga than all of my academic books at least 2️⃣5️⃣0️⃣*️⃣ times over.
+
+Peace 💜
