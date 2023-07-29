@@ -9,7 +9,7 @@
 
 I'm a Fullstack (Web) Software Engineer with a zeal for building intuitive, accessible products with human-centric design.
 
-Find my thoughts, tips and insights on software engineering on [my blog](https://ajitpanigrahi.com "Ajit Panigrahi's Porfolio & Blog").
+Find my thoughts, tips and insights on software engineering on [my blog](https://ajitpanigrahi.com "Ajit Panigrahi's Portfolio & Blog").
 
 > [Twitter](https://twitter.com/ajitzero "Twitter: For immediate contact and replies")
 · [LinkedIn](https://www.linkedin.com/in/ajitzero "LinkedIn: For my professional history")
@@ -21,11 +21,10 @@ Find my thoughts, tips and insights on software engineering on [my blog](https:/
 ---
 
 - 🔭 I work for [Fortinet](https://fortinet.com) as a fullstack developer, formally an "Embedded Software Engineer 2"
-- 🔭 I’m currently working on a simple *bookmarks manager* for myself.
-- 🌱 I’m currently learning *Django*.
+- 🌱 I'm currently learning *Django* and *Nx DevTools*.
 - 💬 Ask me about anything Web, UX, DX, accessibility, design systems... or let's just hang out!
 - 📫 Fastest way to reach me: Twitter (links above👆).
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I have read more fanfiction, light novels and manga than all of my academic books at least 2️⃣5️⃣0️⃣*️⃣ times over.
+- ⚡ Fun fact: I have read more fanfiction, light novels, manga, manhwa, manhua, etc., than my academic books at least 250+ times over.
 
 Peace 💜
