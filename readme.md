@@ -3,7 +3,7 @@
 <img
   align="right"
   alt="GitHub Stats for @ajitzero"
-  src="https://github-readme-stats.vercel.app/api?username=ajitzero&theme=shades-of-purple&show_icons=true&count_private=true&hide_title=true"
+  src="https://github-readme-stats.vercel.app/api?username=ajitzero&theme=moltack&show_icons=true&count_private=true&hide_title=true"
   title="My GitHub Stats. Do the grades matter though?"
 />
 
