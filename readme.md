@@ -9,12 +9,14 @@
 
 I'm a Fullstack (Web) Software Engineer with a zeal for building intuitive, accessible products with human-centric design.
 
-Find my thoughts, tips and insights on software engineering on [my blog](https://ajitpanigrahi.com "Ajit Panigrahi's Portfolio & Blog").
+Passionate about well-designed experiences. Digital, or otherwise.
+
+Find my thoughts, tips, and insights on software engineering on [my blog](https://ajitpanigrahi.com "Ajit Panigrahi's Portfolio & Blog").
 
 > [Twitter](https://twitter.com/ajitzero "Twitter: For immediate contact and replies")
 · [LinkedIn](https://www.linkedin.com/in/ajitzero "LinkedIn: For my professional history")
+· [CV](https://read.cv/ajit "CV: For my professional present")
 · [Email](mailto:hello@ajitpanigrahi.com?subject=Hey%20I%20saw%20your%20GitHub%20Profile "Email: slow replies here")
-· [Newletter](https://ajitpanigrahi.com/newsletter "Newsletter: For updates from me!")
 
 ![](https://komarev.com/ghpvc/?username=AjitZero&color=brightgreen)
 
