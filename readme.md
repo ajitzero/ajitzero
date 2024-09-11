@@ -23,7 +23,7 @@ Find my thoughts, tips, and insights on software engineering on [my blog](https:
 
 ---
 
-- 🔭 I work for [Fortinet](https://fortinet.com) as a fullstack developer, formally an "Embedded Software Engineer 2"
+- 🔭 I work for [Fortinet](https://fortinet.com) as a fullstack developer, formally an "Embedded Software Engineer 3" or SDE3.
 - 🌱 I'm currently learning *Django* and *Nx DevTools*.
 - 💬 Ask me about anything Web, Fonts, UX, DX, accessibility, design systems... or let's just hang out!
 - 📫 Fastest way to reach me: Twitter (links above👆).
