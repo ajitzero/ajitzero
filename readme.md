@@ -13,11 +13,11 @@ Passionate about well-designed experiences. Digital, or otherwise.
 
 Find my thoughts, tips, and insights on software engineering on [my blog](https://ajitpanigrahi.com "Ajit Panigrahi's Portfolio & Blog").
 
-> [Twitter](https://twitter.com/ajitzero "Twitter: For immediate contact and replies")
+> [Twitter](https://bsky.app/profile/ajitpanigrahi.com "Bluesky: For immediate contact and replies")
 · [Peerlist](https://peerlist.io/ajitzero "Peerlist: For my professional future")
 · [read.cv](https://read.cv/ajit "CV: For my professional present")
-· [LinkedIn](https://www.linkedin.com/in/ajitzero "LinkedIn: For my professional history")
-· [Email](mailto:hello@ajitpanigrahi.com?subject=Hey%20I%20saw%20your%20GitHub%20Profile "Email: slow replies here")
+· [LinkedIn](https://www.linkedin.com/in/ajitzero "LinkedIn: For my professional past")
+· [Email](mailto:hello@ajitpanigrahi.com?subject=Hey%20I%20saw%20your%20GitHub%20Profile "Email: relatively slow replies here")
 
 ![](https://komarev.com/ghpvc/?username=ajitzero&color=brightgreen "More poor vanity metrics. This badge increased by five just while editing this file.")
 
@@ -26,7 +26,7 @@ Find my thoughts, tips, and insights on software engineering on [my blog](https:
 - 🔭 I work for [Fortinet](https://fortinet.com) as a fullstack developer, formally an "Embedded Software Engineer 3" or SDE3.
 - 🌱 I'm currently learning *Django* and *Nx DevTools*.
 - 💬 Ask me about anything Web, Fonts, UX, DX, accessibility, design systems... or let's just hang out!
-- 📫 Fastest way to reach me: Twitter (links above👆).
+- 📫 Fastest way to reach me: Bluesky (links above👆).
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I have read way more fan fiction, light novels, manga, manhwa, manhua, etc., than academic stuff at least a thousand times over. Yes, I did the math :)
 
