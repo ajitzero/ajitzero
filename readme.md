@@ -28,6 +28,5 @@ Find my thoughts, tips, and insights on software engineering on [my blog](https:
 - 💬 Ask me about anything Web, Fonts, UX, DX, accessibility, design systems... or let's just hang out!
 - 📫 Fastest way to reach me: Bluesky (links above👆).
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I have read way more fan fiction, light novels, manga, manhwa, manhua, etc., than academic stuff at least a thousand times over. Yes, I did the math :)
 
 Peace 💜
