@@ -14,8 +14,7 @@ Passionate about well-designed experiences. Digital, or otherwise.
 Find my thoughts, tips, and insights on software engineering on [my blog](https://ajitpanigrahi.com "Ajit Panigrahi's Portfolio & Blog").
 
 > [Bluesky](https://bsky.app/profile/ajitpanigrahi.com "Bluesky: For immediate contact and replies")
-· [Peerlist](https://peerlist.io/ajitzero "Peerlist: For my professional future")
-· [read.cv](https://read.cv/ajit "CV: For my professional present")
+· [Peerlist](https://peerlist.io/ajitzero "Peerlist: For my professional present")
 · [LinkedIn](https://www.linkedin.com/in/ajitzero "LinkedIn: For my professional past")
 · [Email](mailto:hello@ajitpanigrahi.com?subject=Hey%20I%20saw%20your%20GitHub%20Profile "Email: relatively slow replies here")
 
