@@ -21,10 +21,7 @@ Peace 💜
 
 #### Vanity metrics
 
-<img
-  alt="GitHub Stats for @ajitzero"
-  src="https://github-readme-stats.vercel.app/api?username=ajitzero&theme=gotham&show_icons=true&count_private=true"
-  title="My GitHub Stats. Do the grades matter, though?"
-/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajitzero&theme=gotham)
+![](https://github-readme-stats.vercel.app/api?username=ajitzero&show_icons=true&count_private=true&theme=gotham&hide_title=true&hide_rank=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitzero&layout=compact&theme=gotham)
 
 ![](https://komarev.com/ghpvc/?username=ajitzero&color=brightgreen "More vanity metrics. This badge increased by five just while editing this file.")
