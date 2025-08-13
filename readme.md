@@ -1,26 +1,14 @@
-## 👋 Hi, I'm Ajit
+[Home](https://ajitpanigrahi.com)
+· [Peerlist](https://peerlist.io/ajitzero)
+· [LinkedIn](https://www.linkedin.com/in/ajitzero)
+· [Sponsors](https://github.com/sponsors/ajitzero)
 
-I'm a Fullstack (Web) Software Engineer based in India. I'm passionate about well-designed experiences &mdash; digital, or otherwise.
+Software Engineer + Designer, based in India.
 
-#### About Me
-
-- 💼 Software Engineer 3 at [Fortinet](https://fortinet.com).
-- ⚒️ Active in Angular communities. Consider sponsoring me [here](https://github.com/sponsors/ajitzero).
-- 🌱 I'm currently exploring *Django* and *Nx DevTools*.
-- 💬 Ask me about anything Web, Fonts, UX, DX, accessibility, design systems... or let's just hang out!
-
-> [Peerlist](https://peerlist.io/ajitzero "Peerlist: For my professional present")
-· [LinkedIn](https://www.linkedin.com/in/ajitzero "LinkedIn: For my professional past")
-· [Bluesky](https://bsky.app/profile/ajitpanigrahi.com "Bluesky: For immediate contact and replies")
-· [Email](mailto:hello@ajitpanigrahi.com?subject=Hey%20I%20saw%20your%20GitHub%20Profile "Email: relatively slow replies here")
-· [Blog](https://ajitpanigrahi.com "Blog & Pseudo-Portfolio")
-
-Peace 💜
+Passionate about well-designed experiences &mdash; digital, or otherwise.
 
 ---
 
-#### Vanity metrics
-
-![](https://github-readme-stats.vercel.app/api?username=ajitzero&show_icons=true&count_private=true&theme=gotham&hide_title=true&hide_rank=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitzero&layout=compact&theme=gotham)
+![](https://github-readme-stats.vercel.app/api?username=ajitzero&show_icons=true&count_private=true&theme=gotham&hide_title=true&rank_icon=percentile)
 
 ![](https://komarev.com/ghpvc/?username=ajitzero&color=brightgreen "More vanity metrics. This badge increased by five just while editing this file.")
