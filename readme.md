@@ -1,6 +1,6 @@
 Software Engineer + Designer, based in India.
 
-Passionate about well-designed experiences<em title="I've been using em dashes since before AI took over.">&mdash;</em>digital, or otherwise.
+Passionate about well-designed experiences<em title="I've been using em dashes since before AI learned grammar.">&mdash;</em>digital, or otherwise.
 
 [Home](https://ajitpanigrahi.com)
 · [Peerlist](https://peerlist.io/ajitzero)
